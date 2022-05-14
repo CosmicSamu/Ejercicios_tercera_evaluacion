@@ -1,0 +1,6 @@
+antena 
+helicoptero 
+jupiter 
+boniato 
+zorro 
+cabeza 
